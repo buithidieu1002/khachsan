@@ -1,0 +1,72 @@
+body{
+
+}
+
+.top-menu{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.top-menu ul li a{
+    color: #fff;
+}
+
+.find-hotel {
+    background: #0099FF;
+}
+
+.find-hotel .form-request{
+    padding: 15px;
+    background: rgba(105, 105, 105, 0.8);
+    box-shadow: 5px 5px 5px #000;
+}
+
+.find-hotel h2{
+    color: #fff;
+    text-align: center;
+}
+
+.find-hotel label{
+    color: #fff;
+}
+
+.reason{
+    text-align: center;
+}
+.gallery h2{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    background: floralwhite;
+}
+.gallery h3{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    text-align: right;
+}
+
+footer{
+    background: slategray;
+    border-top: 3px #fff dashed;
+}
+
+/* ---------- KS ---------- */
+.result .table .tb-img{
+    width: 200px;
+}
+
+.result form{
+    padding: 15px;
+    background: #0099FF;
+    margin-bottom: 30px;
+}
